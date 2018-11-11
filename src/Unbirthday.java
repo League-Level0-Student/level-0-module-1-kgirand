@@ -5,7 +5,7 @@ public static void main(String[] args) {
 	
 
 String bday=JOptionPane.showInputDialog("What is your Birthday?(Month #)");
-if(bday.equals("November 6")) {
+if(bday.equals("November 10")) {
 JOptionPane.showMessageDialog(null, "Happy Birthday!");
 }
 else {
