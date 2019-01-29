@@ -1,4 +1,4 @@
- package ifs_ints_and_loops;
+package ifs_ints_and_loops;
 
 import java.applet.AudioClip;
 import java.awt.KeyEventDispatcher;
